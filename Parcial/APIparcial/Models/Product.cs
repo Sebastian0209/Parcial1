@@ -8,10 +8,10 @@ namespace APIparcial.Models
 {
     public enum UniType
     {
-        Botella,
-        Metro,
-        Litro,
-        Caja
+        Botella,//0
+        Metro,//1
+        Litro,//2
+        Caja//3
     }
     public enum StatusType
     {
